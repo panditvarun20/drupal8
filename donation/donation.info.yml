@@ -1,0 +1,5 @@
+name: Donation Form
+description: This is a donation form
+core: 8.x
+type: module
+package: Custom

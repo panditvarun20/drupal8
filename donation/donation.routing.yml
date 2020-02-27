@@ -1,0 +1,7 @@
+donation.form:
+  path: '/donation/donate'
+  defaults:
+    _title: 'Donation Form'
+    _form: '\Drupal\donation\Form\DonationForm'
+  requirements:
+    _permission: 'access content'
